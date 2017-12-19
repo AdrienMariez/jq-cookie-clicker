@@ -8,7 +8,7 @@ var value_cookies = 0 ;
 
 		$(".counter").html(value_cookies);
 
-		if ( value_cookies == 5 )
+		if ( value_cookies == 20 )
   			{
   				alert('NaN');
   			}
